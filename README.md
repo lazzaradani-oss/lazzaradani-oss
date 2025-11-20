@@ -45,7 +45,7 @@ My skills are currently being advanced through the TripleTen AI Automation Progr
 
 * **LinkedIn:** [https://www.linkedin.com/in/daniellelazzara/](https://www.linkedin.com/in/daniellelazzara/)
 * **Email:** lazzaradani@gmail.com
-* **GitHub:** [https://github.com/lazzaradani-oss](https://github.com/lazzaradani-oss)Hi, I'm Danielle Lazzara
+* **GitHub:** [https://github.com/lazzaradani-oss](https://github.com/lazzaradani-oss)
 
 <!--
 **lazzaradani-oss/lazzaradani-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
