@@ -34,10 +34,10 @@ My skills are currently being advanced through the TripleTen AI Automation Progr
 
 | Project | Key Focus | Link |
 | :--- | :--- | :--- |
-| **The Secret Garden Simulator** | **Figma Prototyping** & User-Centered Workflow Mapping | [Link to Figma Prototype] |
-| **E-Commerce Data Management** | **SquareUp & Google Sheets API** Integration, Data Validation, SQL | [Link to Project Repo] |
-| **Customer Feedback Automation** | Google Forms, Make, **Gemini AI**, Sentiment Analysis | [Link to Project Repo] |
-| **Personal Vercel Portfolio** | Next.js, **Vercel Deployment**, **VS Code** | [Link to Vercel Site] |
+| **The Secret Garden Simulator** | **Figma Prototyping** & User-Centered Workflow Mapping | COMING SOON
+| **Personal Vercel Portfolio** | Next.js, **Vercel Deployment**, **VS Code** | [Link to Vercel Site](https://dani-lazzara.vercel.app/) |
+| **E-Commerce Data Management** | **APIs** Integration, Data Validation, SQL | COMING SOON
+| **Customer Feedback Automation** | Google Forms, Make, **Gemini AI**, Sentiment Analysis | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) | 
 
 ---
 
