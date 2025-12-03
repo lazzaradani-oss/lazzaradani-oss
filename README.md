@@ -1,43 +1,41 @@
+# lazzaradani-oss/lazzaradani-oss
+
 ## Hi, I'm Danielle Lazzara ✨
-#### AI Automation & Creative Systems Designer | Bridging Design, Data, and Scalable Workflows
+### AI/ML E-commerce & Digital Experience Specialist | Bridging Automation, Design, and Revenue Growth
 
-I am a heart-led systems designer and automation specialist who loves turning scattered data into clear, intuitive workflows. My focus is on crafting user-centered solutions and embedding efficiency across systems.
+I am a highly analytical, creative, and strategic professional focused on crafting **end-to-end e-commerce solutions** and high-converting websites. My goal is to leverage **Generative AI** and complex workflows (Zapier, Make) to drive quantifiable revenue growth and improved customer engagement[cite: 3, 7].
 
----
-
-### 🦋 Featured Project: The Secret Garden Workflow Simulator
-
+## 🦋 Featured Project: The Secret Garden Workflow Simulator
 This signature project showcases my entire skillset—from human-centered design to technical execution and documentation.
 
-* **The Project:** An interactive **Figma Prototype** where a user chooses a business problem (e.g., slow workflows, inconsistent CRM). The simulator then guides them through the automation solution, visualized with holographic UI, soft glows, and a "Secret Garden" design aesthetic.
-* **Skills Demonstrated:** **Figma Prototyping** (Holographic UI/UX), **Notion Documentation** (RCA & Technical Specs), **Workflow Mapping**, and **User-Centered Design**.
-* **Tools Used:** **VS Code, GitHub, Figma, Notion, Next.js** (for final deployment).
+* **The Project:** An interactive **Figma Prototype** where a user navigates through an automation solution tailored to a business problem (e.g., slow workflows). The simulator uses holographic UI to visualize the solution and technical specs.
+* **Skills Demonstrated:** **Figma Prototyping** (Holographic UI/UX), **Notion Documentation** (RCA & Technical Specs), **User-Centered Design**, and **Next.js** deployment.
+* **Tools Used:** **VS Code**, **GitHub**, Figma, Notion, Next.js.
 
 ---
 
-### ⚡️ Technical Proficiency & TripleTen Training
+## ⚡️ Technical Proficiency & Integration (TripleTen Training)
+My skills are aligned with modern systems administration and workflow development, leveraging both code and no-code tools.
 
-My skills are currently being advanced through the TripleTen AI Automation Program, and are aligned with modern systems administration and workflow development.
-
-| Skill Focus | Key Tools & Concepts (from LinkedIn) | Application |
+| *Skill Focus* | *Key Tools & Concepts* | *Application* |
 | :--- | :--- | :--- |
-| **Automation & RPA** | **Make, Zapier, N8N, REST API, Webhooks, JSON** | Building scalable, secure, and complex multi-step workflows. |
-| **AI & LLMs** | **Gemini AI, ChatGPT/OpenAI, Prompt Engineering** | Integrating generative AI for tasks like sentiment analysis and instant reporting. |
-| **Data & Systems** | **SQL, Supabase, Airtable, Analytical & Adaptive Problem-Solving** | Ensuring data integrity and applying **Root Cause Analysis (RCA)** for system reliability. |
-| **Development Stack** | **Vercel, Next.js, VS Code, Git/GitHub, Figma** | Deploying modern web services and maintaining code version control. |
-
-**Proven Metric:** Built a workflow in Make, Zapier, and Gemini AI that **reduced manual reporting time by 80%**.
+| **Automation & RPA** | **Zapier**, **Make**, **n8n**, REST API, Webhooks, JSON | Building scalable, secure, and complex multi-step workflows. |
+| **AI & LLMs** | **Gemini AI**, **OpenAI GPT**, Prompt Engineering [cite: 8, 9] | Integrating generative AI for tasks like sentiment analysis and instant reporting. |
+| **Development Stack** | **VS Code**, **Next.js**, Git/GitHub, **Figma**, Vercel | Deploying modern digital storefronts and managing code version control. |
+| **Data & Systems** | SQL, Supabase, Data Validation | Ensuring data integrity and applying Root Cause Analysis (RCA) for system reliability. |
 
 ---
 
-### 🔗 Project Portfolio
+## 🔗 Project Portfolio (TripleTen & Professional)
+This table features projects that demonstrate the core skills required for an AI/ML E-commerce Specialist.
 
-| Project | Key Focus | Link |
+| *Project* | *Key Focus* | *Link* |
 | :--- | :--- | :--- |
-| **The Secret Garden Simulator** | **Figma Prototyping** & User-Centered Workflow Mapping | COMING SOON
-| **Personal Vercel Portfolio** | Next.js, **Vercel Deployment**, **VS Code** | [Link to Vercel Site](https://dani-lazzara.vercel.app/) |
-| **E-Commerce Data Management** | **APIs** Integration, Data Validation, SQL | COMING SOON
-| **Customer Feedback Automation** | Google Forms, Make, **Gemini AI**, Sentiment Analysis | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) | 
+| **Automation of Weather-Based Sales** | Zapier Webhooks, **Gemini AI**, Gamma Reporting | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) |
+| **Multi-Service E-commerce Experience** | **Figma** Design, Conversion Funnels, Landing Page Dev | COMING SOON [cite: 13, 14, 15, 16] |
+| **Automated AI Feedback Analysis** | **Make.com**, **OpenAI GPT**, 95% Analysis Accuracy | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) [cite: 17, 18, 19, 20] |
+| **The Secret Garden Simulator** | **Figma Prototyping**, UI/UX, **Notion Technical Specs** | COMING SOON |
+| **Personal Vercel Portfolio** | **Next.js**, Vercel Deployment, VS Code | [Link to Vercel Site](https://dani-lazzara.vercel.app/) |
 
 ---
 
