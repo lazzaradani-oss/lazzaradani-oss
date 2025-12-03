@@ -5,7 +5,7 @@
 
 I am a highly analytical, creative, and strategic professional focused on crafting **end-to-end e-commerce solutions** and high-converting websites. My goal is to leverage **Generative AI** and complex workflows (Zapier, Make) to drive quantifiable revenue growth and improved customer engagement.
 
-## 🦋 Featured Project: The Secret Garden Workflow Simulator
+## 🦋 Featured Project: The Secret Garden Workflow Simulator - **COMING SOON**
 This signature project showcases my entire skillset—from human-centered design to technical execution and documentation.
 
 * **The Project:** An interactive **Figma Prototype** where a user navigates through an automation solution tailored to a business problem (e.g., slow workflows). The simulator uses holographic UI to visualize the solution and technical specs.
@@ -20,7 +20,7 @@ My skills are aligned with modern systems administration and workflow developmen
 | *Skill Focus* | *Key Tools & Concepts* | *Application* |
 | :--- | :--- | :--- |
 | **Automation & RPA** | **Zapier**, **Make**, **n8n**, REST API, Webhooks, JSON | Building scalable, secure, and complex multi-step workflows. |
-| **AI & LLMs** | **Gemini AI**, **OpenAI GPT**, Prompt Engineering [cite: 8, 9] | Integrating generative AI for tasks like sentiment analysis and instant reporting. |
+| **AI & LLMs** | **Gemini AI**, **OpenAI GPT**, Prompt Engineering | Integrating generative AI for tasks like sentiment analysis and instant reporting. |
 | **Development Stack** | **VS Code**, **Next.js**, Git/GitHub, **Figma**, Vercel | Deploying modern digital storefronts and managing code version control. |
 | **Data & Systems** | SQL, Supabase, Data Validation | Ensuring data integrity and applying Root Cause Analysis (RCA) for system reliability. |
 
@@ -32,10 +32,10 @@ This table features projects that demonstrate the core skills required for an AI
 | *Project* | *Key Focus* | *Link* |
 | :--- | :--- | :--- |
 | **Automation of Weather-Based Sales** | Zapier Webhooks, **Gemini AI**, Gamma Reporting | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) |
-| **Multi-Service E-commerce Experience** | **Figma** Design, Conversion Funnels, Landing Page Dev | COMING SOON [cite: 13, 14, 15, 16] |
-| **Automated AI Feedback Analysis** | **Make.com**, **OpenAI GPT**, 95% Analysis Accuracy | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) [cite: 17, 18, 19, 20] |
+| **Multi-Service E-commerce Experience** | **Lovable** Design, Conversion Funnels, Landing Page Dev | [Link to Yoga Studio Landing Page](https://morning-light-studio.lovable.app/) & [Link to Dog Grooming Service Landing Page](https://pawsandshine.lovable.app/) |
+| **Automated AI Feedback Analysis** | **Make.com**, **OpenAI GPT**, 95% Analysis Accuracy | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) |
 | **The Secret Garden Simulator** | **Figma Prototyping**, UI/UX, **Notion Technical Specs** | COMING SOON |
-| **Personal Vercel Portfolio** | **Next.js**, Vercel Deployment, VS Code | [Link to Vercel Site](https://dani-lazzara.vercel.app/) |
+| **Personal Vercel Portfolio** | **Next.js**, Vercel Deployment, VS Code, Github | [Link to Vercel Site](https://dani-lazzara.vercel.app/) |
 
 ---
 
