@@ -31,7 +31,7 @@ This table features projects that demonstrate the core skills required for an AI
 
 | *Project* | *Key Focus* | *Link* |
 | :--- | :--- | :--- |
-| **Automation of Weather-Based Sales** | Zapier Webhooks, **Gemini AI**, Gamma Reporting | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) |
+| **Automation of Weather-Based Sales** | Zapier Webhooks, **Gemini AI**, Gamma Reporting | [Link to Gamma Presentation](https://automation-of-weather-ba-depyjla.gamma.site/) |
 | **Multi-Service E-commerce Experience** | **Lovable** Design, Conversion Funnels, Landing Page Dev | [Link to Yoga Studio Landing Page](https://morning-light-studio.lovable.app/) & [Link to Dog Grooming Service Landing Page](https://pawsandshine.lovable.app/) |
 | **Automated AI Feedback Analysis** | **Make.com**, **OpenAI GPT**, 95% Analysis Accuracy | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) |
 | **The Secret Garden Simulator** | **Figma Prototyping**, UI/UX, **Notion Technical Specs** | COMING SOON |
