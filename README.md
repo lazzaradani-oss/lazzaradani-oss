@@ -3,7 +3,7 @@
 ## Hi, I'm Danielle Lazzara ✨
 ### AI/ML E-commerce & Digital Experience Specialist | Bridging Automation, Design, and Revenue Growth
 
-I am a highly analytical, creative, and strategic professional focused on crafting **end-to-end e-commerce solutions** and high-converting websites. My goal is to leverage **Generative AI** and complex workflows (Zapier, Make) to drive quantifiable revenue growth and improved customer engagement[cite: 3, 7].
+I am a highly analytical, creative, and strategic professional focused on crafting **end-to-end e-commerce solutions** and high-converting websites. My goal is to leverage **Generative AI** and complex workflows (Zapier, Make) to drive quantifiable revenue growth and improved customer engagement.
 
 ## 🦋 Featured Project: The Secret Garden Workflow Simulator
 This signature project showcases my entire skillset—from human-centered design to technical execution and documentation.
