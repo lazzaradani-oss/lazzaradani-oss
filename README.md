@@ -1,9 +1,9 @@
 # lazzaradani-oss/lazzaradani-oss
 
 ## Hi, I'm Danielle Lazzara ✨
-### AI/ML E-commerce & Digital Experience Specialist | Bridging Automation, Design, and Revenue Growth
+### AI Agent Developer | Python & React | Engineering Logic-Driven Workflows & Intelligent Agents
 
-I am a highly analytical, creative, and strategic professional focused on crafting **end-to-end e-commerce solutions** and high-converting websites. My goal is to leverage **Generative AI** and complex workflows (Zapier, Make) to drive quantifiable revenue growth and improved customer engagement.
+I am an **AI Developer** and **Systems Architect** dedicated to building logic-driven automations. I leverage a decade of logistics management experience to design **Python-based agents** and **React applications** that solve complex business inefficiencies and drive measurable ROI.
 
 ## 🦋 Featured Project: AI Automation Simulator
 
