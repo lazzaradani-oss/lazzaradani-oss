@@ -28,16 +28,17 @@ My skills are aligned with modern systems administration and workflow developmen
 
 ---
 
-## 🔗 Project Portfolio (TripleTen & Professional)
-This table features projects that demonstrate the core skills required for an AI/ML E-commerce Specialist.
+## 🔗 Project Portfolio (Professional & Technical)
 
-| *Project* | *Key Focus* | *Link* |
+This table features my core technical projects, demonstrating a blend of AI logic, web architecture, and automated workflow development.
+
+| Project | Key Focus | Link |
 | :--- | :--- | :--- |
-| **Automation of Weather-Based Sales** | Zapier Webhooks, **Gemini AI**, Gamma Reporting | [Link to Gamma Presentation](https://automation-of-weather-ba-depyjla.gamma.site/) |
-| **Multi-Service E-commerce Experience** | **Lovable** Design, Conversion Funnels, Landing Page Dev | [Link to Yoga Studio Landing Page](https://morning-light-studio.lovable.app/) & [Link to Dog Grooming Service Landing Page](https://pawsandshine.lovable.app/) |
-| **Automated AI Feedback Analysis** | **Make.com**, **OpenAI GPT**, 95% Analysis Accuracy | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) |
-| **The Secret Garden Simulator** | **Figma Prototyping**, UI/UX, **Notion Technical Specs** | COMING SOON |
-| **Personal Vercel Portfolio** | **Next.js**, Vercel Deployment, VS Code, Github | [Link to Vercel Site](https://dani-lazzara.vercel.app/) |
+| **AI Automation Simulator** | Python, Streamlit, Logic Mapping, RCA | [Live Streamlit App](https://lazzara-automation-simulator.streamlit.app/) |
+| **Professional Tech Portfolio** | React.js, CI/CD, Netlify, Web Architecture | [Live React Site](https://lazzara-tech-porfolio.netlify.app/) |
+| **Weather-Based Sales Automation** | Zapier, Gemini AI, API Integration | [Link to Gamma Presentation](https://automation-of-weather-ba-depyjla.gamma.site/) |
+| **Automated AI Feedback Analysis** | Make.com, OpenAI GPT, 95% Analysis Accuracy | [Link to Gamma Presentation](https://gamma.app/docs/Automated-Feedback-Analysis-Workflow-027w4jshs5bv4an?mode=doc) |
+| **The Secret Garden Simulator** | Figma Prototyping, UI/UX, Technical Specs | **COMING SOON** |
 
 ---
 
