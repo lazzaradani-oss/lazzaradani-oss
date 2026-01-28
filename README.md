@@ -3,7 +3,8 @@
 ## Hi, I'm Danielle Lazzara ✨
 ### AI Agent Developer | Python & React | Engineering Logic-Driven Workflows & Intelligent Agents
 
-I am an **AI Developer** and **Systems Architect** dedicated to building logic-driven automations. I leverage a decade of logistics management experience to design **Python-based agents** and **React applications** that solve complex business inefficiencies and drive measurable ROI.
+I am an **AI Developer** and **Systems Architect** dedicated to building logic-driven automations. I integrate a career-long expertise in systems design to engineer **Python-based agents** and **React applications** that transform manual bottlenecks into scalable, high-impact ROI.
+
 
 ## 🦋 Featured Project: AI Automation Simulator
 
