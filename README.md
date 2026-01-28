@@ -5,12 +5,14 @@
 
 I am a highly analytical, creative, and strategic professional focused on crafting **end-to-end e-commerce solutions** and high-converting websites. My goal is to leverage **Generative AI** and complex workflows (Zapier, Make) to drive quantifiable revenue growth and improved customer engagement.
 
-## 🦋 Featured Project: The Secret Garden Workflow Simulator - **COMING SOON**
-This signature project showcases my entire skillset—from human-centered design to technical execution and documentation.
+## 🦋 Featured Project: AI Automation Simulator
 
-* **The Project:** An interactive **Figma Prototype** where a user navigates through an automation solution tailored to a business problem (e.g., slow workflows). The simulator uses holographic UI to visualize the solution and technical specs.
-* **Skills Demonstrated:** **Figma Prototyping** (Holographic UI/UX), **Notion Documentation** (RCA & Technical Specs), **User-Centered Design**, and **Next.js** deployment.
-* **Tools Used:** **VS Code**, **GitHub**, Figma, Notion, Next.js.
+While **The Secret Garden** (Coming Soon) highlights my creative UI/UX approach, this project demonstrates the **technical logic and architectural side** of my workflow development. It is a live, functional tool designed to diagnose business inefficiencies and propose data-driven AI solutions.
+
+* **The Project:** A Python-based [AI Automation Simulator](https://lazzara-automation-simulator.streamlit.app/) that allows users to input business bottlenecks—such as manual data entry or slow lead responses—and receive a tailored automation strategy including tech stack recommendations.
+* **Skills Demonstrated:** **Python Development**, **Logic Mapping**, **Streamlit Web Framework**, and **Root Cause Analysis (RCA)**.
+* **Technical Execution:** Built using **Python** and deployed via **Streamlit Community Cloud**, utilizing structured data validation to simulate real-world business impact.
+* **Tools Used:** **Python**, **Streamlit**, **VS Code**, and **GitHub**.
 
 ---
 
