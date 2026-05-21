@@ -5,7 +5,7 @@
 ### Creative Technologist & Behavioral UX Specialist
 **Building Cognitive Frontend Interfaces & Intelligent Multi-Agent Workflows**
 
-I bridge the gap between human psychology and complex system architecture. With a background in behavioral science (UX/RBT) and rigorous training in AI automation, I engineer logic-driven web applications and autonomous agent workflows that turn manual operational bottlenecks into scalable, high-impact digital experiences.
+I engineer at the intersection of human psychology and complex system architecture. With a background in behavioral science (UX/RBT) and rigorous training in AI automation, I build logic-driven web applications and autonomous agent workflows that turn manual operational bottlenecks into scalable, high-impact digital experiences.
 
 ---
 
