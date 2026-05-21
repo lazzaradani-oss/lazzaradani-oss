@@ -1,6 +1,6 @@
 # lazzaradani-oss/lazzaradani-oss
 
-## Hi, I'm Danielle Lazzara ✨
+## [Hi, I'm Danielle Lazzara ✨
 ### AI Agent Developer | Python & React | Engineering Logic-Driven Workflows & Intelligent Agents
 
 I am an **AI Developer** and **Systems Architect** dedicated to building logic-driven automations. I integrate a career-long expertise in systems design to engineer **Python-based agents** and **React applications** that transform manual bottlenecks into scalable, high-impact ROI.
@@ -43,7 +43,7 @@ This table features my core technical projects, demonstrating a blend of AI logi
 
 ---
 
-### ✨ Connect With Me
+### ✨ Connect With Me](https://mind-x-machine.netlify.app/)
 
 * **LinkedIn:** [https://www.linkedin.com/in/daniellelazzara/](https://www.linkedin.com/in/daniellelazzara/)
 * **Email:** lazzaradani@gmail.com
