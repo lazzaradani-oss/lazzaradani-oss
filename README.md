@@ -1,18 +1,26 @@
+<div align="center">
+
 # lazzaradani-oss/lazzaradani-oss
 
 ## Hi, I'm Danielle Lazzara ✨
 
 ### Creative Technologist & Behavioral UX Specialist
-**Architecting Cinematic Web Experiences & Autonomous Agent Workflows**
+**Architecting Immersive Web Experiences & Digital Goods**
 
-I operate at the intersection of psychology, code, and sonic atmosphere. I build high-fidelity digital ecosystems for independent creators, musicians, and boutique brands—transforming operational friction into immersive, logic-driven experiences that convert.
+I operate at the intersection of psychology, code, and sonic atmosphere. I build high-fidelity digital ecosystems for independent creators, musicians, and independent brands—transforming operational friction into immersive, logic-driven experiences that convert.
 
 ---
+
+[![Identity](https://img.shields.io/badge/Identity-Behavioral_Architect-2C3E50?style=flat-square)](https://docs.google.com/document/d/1QuohhFKjIGjy49Q3nYOjmFTlNz2MQLl1PMjWHsSqWbA)
+
+[![Status](https://img.shields.io/badge/Operational-Active-C6A355?style=flat-square)](https://lovable.dev)
+
+</div>
 
 ## 🦋 Logic & Luster: The Portfolio
 **[Explore the Portfolio](https://lovable.dev/projects/36ddbd42-a72d-40b0-83d9-d9214796d297)**
 
-*Logic & Luster* is a playground where high-velocity technical execution meets the visceral pulse of artistry. I bridge the gap between complex systems and human emotion.
+*Logic & Luster* is where my high-velocity technical execution meets the visceral pulse of artistry. This is the home where my high-vibe digital goods are turned into fully-functional components and ensuring complex systems captures the human emotion. 
 
 ### 🛠️ Practice Pillars: The Creative-Technical Hybrid
 * **Sonic & Visual Immersion:** Crafting atmospheric, scroll-triggered environments that define brand identity.
@@ -38,6 +46,13 @@ I operate at the intersection of psychology, code, and sonic atmosphere. I build
 
 ---
 
-> *“I thrive in the intersection of logic and intuition—where the cool calm of indigo meets the visceral pulse of merlot.”*
+<div align="center">
 
-**[View The Archive](https://lovable.dev/projects/36ddbd42-a72d-40b0-83d9-d9214796d297)** | **[Collaborate with me](https://lovable.dev/projects/36ddbd42-a72d-40b0-83d9-d9214796d297)**
+### 🔗 ACCESS THE ARCHIVE
+[**View Portfolio Before It Goes Live**](https://lovable.dev) 🚀 • [**Professional Resume**](https://docs.google.com/document/d/14uLBvSNtpztUp_G9wnFpKDxdwgRydytrJfh4eWz-OdI) 📄
+
+*Architected by Danielle Lazzara* ✨
+
+</div>
+
+> *“I thrive in the intersection of logic and intuition—where the cool calm of indigo meets the visceral pulse of merlot.”*
