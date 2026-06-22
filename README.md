@@ -18,7 +18,6 @@ I operate at the intersection of psychology, code, and sonic atmosphere. I build
 </div>
 
 ## 🦋 Logic & Luster: The Portfolio
-**[Explore the Portfolio](https://lovable.dev/projects/36ddbd42-a72d-40b0-83d9-d9214796d297)**
 
 *Logic & Luster* is where my high-velocity technical execution meets the visceral pulse of artistry. This is the home where my high-vibe digital goods are turned into fully-functional components and ensuring complex systems captures the human emotion. 
 
