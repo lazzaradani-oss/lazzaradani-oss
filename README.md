@@ -48,7 +48,7 @@ I operate at the intersection of psychology, code, and sonic atmosphere. I build
 <div align="center">
 
 ### 🔗 ACCESS THE ARCHIVE
-[**View Portfolio Before It Goes Live**](https://lovable.dev) 🚀 • [**Professional Resume**](https://docs.google.com/document/d/14uLBvSNtpztUp_G9wnFpKDxdwgRydytrJfh4eWz-OdI) 📄
+[**View Portfolio Before It Goes Live**](https://logic-and-luster.lovable.app) 🚀 • [**Professional Resume**](https://docs.google.com/document/d/14uLBvSNtpztUp_G9wnFpKDxdwgRydytrJfh4eWz-OdI) 📄
 
 *Architected by Danielle Lazzara* ✨
 
