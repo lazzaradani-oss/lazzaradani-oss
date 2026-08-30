@@ -30,4 +30,4 @@ I operate at the intersection of systems analysis, code, and behavioral UX. I bu
 * **Development:** VS Code, Git, Cursor, Replit, Framer, Lovable
 * **AI & Integration:** Gemini AI API, LumaLabs, API Orchestration
 
-> *“I thrive in the intersection of logic and intuition—where the cool calm of indigo meets the visceral pulse of merlot.”*
+> *“Good design is not decoration after the decision. It is the way a team decides what matters — and lets people feel it.”*
