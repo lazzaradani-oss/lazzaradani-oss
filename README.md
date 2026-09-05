@@ -11,7 +11,7 @@
 I operate at the intersection of systems analysis, code, and behavioral UX. I build high-fidelity digital products that translate complex requirements into intuitive, scalable web platforms.
 
 [![Identity](https://img.shields.io/badge/Identity-Technical_Product_Manager-2C3E50?style=flat-square)](https://docs.google.com/document/d/1G2sdzHVIm4eE2SBvsbo7bQDDYSDl97lxXKfY53Qqf0I)
-[![Status](https://img.shields.io/badge/Operational-Active-C6A355?style=flat-square)](https://logic-and-luster.replit.app)
+[![Status](https://img.shields.io/badge/Operational-Active-C6A355?style=flat-square)](https://logicandluster.com/)
 
 </div>
 
