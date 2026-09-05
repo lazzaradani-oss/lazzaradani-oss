@@ -18,7 +18,7 @@ I operate at the intersection of systems analysis, code, and behavioral UX. I bu
 ---
 
 ## 🦋 Logic & Luster: The Portfolio
-[Logic & Luster](https://logic-and-luster.replit.app) is where my technical execution meets product strategy. 
+[Logic & Luster](https://logicandluster.com/) is where my technical execution meets product strategy. 
 
 * **Product Lifecycle Ownership:** Engineered and managed full-stack digital platforms from discovery to deployment.
 * **AI & Workflow Automation:** Integrated Gemini AI APIs and built autonomous agentic workflows to optimize backend logic and prototype product capabilities.
