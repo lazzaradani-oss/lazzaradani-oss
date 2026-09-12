@@ -2,9 +2,9 @@
 
 # lazzaradani-oss/lazzaradani-oss
 
-## Hi, I'm Danielle Lazzara ✨
+## Hi, I'm # 𝘿𝙖𝙣𝙞𝙚𝙡𝙡𝙚 𝙇𝙖𝙯𝙯𝙖𝙧𝙖 ✨
 
-### Creative Technologist & Product Designer
+### CREATIVE TECHNOLOGIST · PRODUCT DESIGNER · DIGITAL ARTIST
 
 **Designing Human-Centered Digital Products, Web Experiences & Creative Technology**
 
