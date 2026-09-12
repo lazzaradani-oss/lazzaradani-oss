@@ -25,7 +25,7 @@ I operate at the intersection of design, technology, visual systems, and human b
 * **Creative Technology & AI:** Use AI-assisted development, AI-assisted prototyping, Gemini AI APIs, and agentic workflows to explore and accelerate product concepts.
 * **Systems & Behavior:** Apply behavioral observation, pattern recognition, needs assessment, and workflow analysis to understand users, identify friction, and inform design decisions.
 
-## ✦ Stack & Expertise
+## ☾ Stack & Expertise ☾
 * **Design & UX:** Product Design, UX/UI Design, User-Centered Design, User Flows, Prototyping, Design Systems
 * **Visual & Brand:** Visual Design, Brand Identity, Digital Branding, Art Direction, Visual Systems
 * **Web & AI:** Web Design, Frontend Development, AI-Assisted Development, AI-Assisted Prototyping, Creative Technology
