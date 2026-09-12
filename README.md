@@ -2,7 +2,7 @@
 
 # lazzaradani-oss/lazzaradani-oss
 
-## Hi, I'm # 𝘿𝙖𝙣𝙞𝙚𝙡𝙡𝙚 𝙇𝙖𝙯𝙯𝙖𝙧𝙖 ✨
+## Hi, I'm ★ 𝘿𝙖𝙣𝙞𝙚𝙡𝙡𝙚 𝙇𝙖𝙯𝙯𝙖𝙧𝙖 ★ 
 
 ### CREATIVE TECHNOLOGIST · PRODUCT DESIGNER · DIGITAL ARTIST
 
@@ -17,7 +17,7 @@ I operate at the intersection of design, technology, visual systems, and human b
 
 ---
 
-## ★ Logic & Luster: The Portfolio 🦇
+## 🦇 Logic & Luster: The Portfolio 🦇
 [Logic & Luster](https://logicandluster.com/) is my creative technology and product design practice—where human behavior, design, technology, and systems thinking come together to turn ideas into digital experiences. 
 
 * **Product & UX Design:** Develop user-centered digital products through user flows, information architecture, wireframing, prototyping, interaction design, and iterative problem-solving.
