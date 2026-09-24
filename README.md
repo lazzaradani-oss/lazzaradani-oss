@@ -2,7 +2,7 @@
 
 # lazzaradani-oss/lazzaradani-oss
 
-## Hi, I'm ★ 𝘿𝙖𝙣𝙞𝙦𝙡𝙡𝙚 𝙇𝙖𝙯𝙯𝙖𝙧𝙖 ★
+## Hi, I'm ★ 𝘿𝙖𝙣𝙞𝙚𝙡𝙡𝙚 𝙇𝙖𝙯𝙯𝙖𝙧𝙖 ★
 
 ### CREATIVE TECHNOLOGIST · PRODUCT DESIGNER · DIGITAL ARTIST
 
@@ -30,7 +30,9 @@ I operate at the intersection of design, technology, visual systems, and human b
 
 ## ✦ Selected Creative Technology ✦
 
-### ☾ [The Nocturne Machine](https://github.com/lazzaradani-oss/nocturne-machine)
+### ☾ The Nocturne Machine
+
+[**VIEW LIVE EXPERIENCE**](https://nocturne-machine.netlify.app/) · [**VIEW SOURCE**](https://github.com/lazzaradani-oss/nocturne-machine)
 
 **Experimental Interactive Web Experience**
 
@@ -75,7 +77,7 @@ Experiments at the intersection of design, code, AI, interaction, motion, and em
 
 <div align="center">
 
-### 𝒟𝒶𝓃𝒾ℯ𝓁𝓁ℯ 𝐿𝒶𝓏𝒶𝓇𝒶
+### 𝒟𝒶𝓃𝒾ℯ𝓁𝓁ℯ 𝐿𝒶𝓏𝓏𝒶𝓇𝒶
 
 *Creative Technologist · Product Designer · Digital Artist*
 
