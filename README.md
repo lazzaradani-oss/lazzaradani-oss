@@ -6,10 +6,10 @@
 
 **Designing Human-Centered Digital Products, Web Experiences & Creative Technology**
 
-[![IDENTITY](https://img.shields.io/badge/IDENTITY-6B3FA0?style=flat-square&logoColor=white)](https://docs.google.com/document/d/1G2sdzHVIm4eE2SBvsbo7bQDDYSDl97lxXKfY53Qqf0I)
-[![CREATIVE TECHNOLOGIST](https://img.shields.io/badge/CREATIVE%20TECHNOLOGIST-D88BAF?style=flat-square&logoColor=white)](https://logicandluster.com/)
-[![OPERATIONAL](https://img.shields.io/badge/OPERATIONAL-F5F1E8?style=flat-square&labelColor=6B3A5E&color=F5F1E8&logoColor=black)](https://logicandluster.com/)
-[![ACTIVE](https://img.shields.io/badge/ACTIVE-6B3A5E?style=flat-square&logoColor=white)](https://logicandluster.com/)
+[![IDENTITY](https://img.shields.io/badge/IDENTITY-1D4B93?style=flat-square&logoColor=white)](https://docs.google.com/document/d/1G2sdzHVIm4eE2SBvsbo7bQDDYSDl97lxXKfY53Qqf0I)
+[![CREATIVE TECHNOLOGIST](https://img.shields.io/badge/CREATIVE%20TECHNOLOGIST-F82F6E?style=flat-square&logoColor=white)](https://logicandluster.com/)
+[![OPERATIONAL](https://img.shields.io/badge/OPERATIONAL-B0B9E8?style=flat-square&labelColor=091234&color=B0B9E8&logoColor=black)](https://logicandluster.com/)
+[![ACTIVE](https://img.shields.io/badge/ACTIVE-091234?style=flat-square&logoColor=white)](https://logicandluster.com/)
 
 <br>
 
@@ -17,7 +17,7 @@
 >
 > *Move closer. Watch it breathe. Wake it.*
 
-[![WAKE THE NOCTURNE MACHINE](https://img.shields.io/badge/☾%20WAKE%20THE%20NOCTURNE%20MACHINE-6B3A5E?style=for-the-badge&logoColor=white)](https://nocturne-machine.netlify.app/)
+[![WAKE THE NOCTURNE MACHINE](https://img.shields.io/badge/☾%20WAKE%20THE%20NOCTURNE%20MACHINE-091234?style=for-the-badge&logoColor=white)](https://nocturne-machine.netlify.app/)
 
 </div>
 
@@ -25,12 +25,12 @@
 
 ## ◈ SYSTEM NAVIGATION
 
-[![IDENTITY](https://img.shields.io/badge/01%20IDENTITY-6B3FA0?style=flat-square&logoColor=white)](#identity)
-[![LOGIC%20%26%20LUSTER](https://img.shields.io/badge/02%20LOGIC%20%26%20LUSTER-D88BAF?style=flat-square&logoColor=white)](#logic--luster)
-[![EXPERIMENTS](https://img.shields.io/badge/03%20EXPERIMENTS-6B3A5E?style=flat-square&logoColor=white)](#selected-experiments)
-[![CAPABILITIES](https://img.shields.io/badge/04%20CAPABILITIES-F5F1E8?style=flat-square&labelColor=6B3FA0&logoColor=black)](#capabilities)
-[![STACK](https://img.shields.io/badge/05%20STACK-6B3FA0?style=flat-square&logoColor=white)](#stack)
-[![SIGNAL](https://img.shields.io/badge/06%20SIGNAL-6B3A5E?style=flat-square&logoColor=white)](#signal)
+[![IDENTITY](https://img.shields.io/badge/01%20IDENTITY-1D4B93?style=flat-square&logoColor=white)](#identity)
+[![LOGIC%20%26%20LUSTER](https://img.shields.io/badge/02%20LOGIC%20%26%20LUSTER-F82F6E?style=flat-square&logoColor=white)](#logic--luster)
+[![EXPERIMENTS](https://img.shields.io/badge/03%20EXPERIMENTS-091234?style=flat-square&logoColor=white)](#selected-experiments)
+[![CAPABILITIES](https://img.shields.io/badge/04%20CAPABILITIES-B0B9E8?style=flat-square&labelColor=1D4B93&logoColor=black)](#capabilities)
+[![STACK](https://img.shields.io/badge/05%20STACK-1D4B93?style=flat-square&logoColor=white)](#stack)
+[![SIGNAL](https://img.shields.io/badge/06%20SIGNAL-091234?style=flat-square&logoColor=white)](#signal)
 
 ---
 
@@ -42,10 +42,10 @@ I operate at the intersection of **design, technology, visual systems, and human
 
 I transform complex ideas and requirements into intuitive digital products, responsive web experiences, and engaging visual systems—from concept and UX/UI through prototyping, development, and deployment.
 
-[![PRODUCT DESIGN](https://img.shields.io/badge/PRODUCT%20DESIGN-6B3FA0?style=flat-square&logoColor=white)](#)
-[![UX/UI](https://img.shields.io/badge/UX%2FUI-D88BAF?style=flat-square&logoColor=white)](#)
-[![CREATIVE TECHNOLOGY](https://img.shields.io/badge/CREATIVE%20TECHNOLOGY-6B3A5E?style=flat-square&logoColor=white)](#)
-[![DIGITAL ART](https://img.shields.io/badge/DIGITAL%20ART-F5F1E8?style=flat-square&labelColor=6B3FA0&logoColor=black)](#)
+[![PRODUCT DESIGN](https://img.shields.io/badge/PRODUCT%20DESIGN-1D4B93?style=flat-square&logoColor=white)](#)
+[![UX/UI](https://img.shields.io/badge/UX%2FUI-F82F6E?style=flat-square&logoColor=white)](#)
+[![CREATIVE TECHNOLOGY](https://img.shields.io/badge/CREATIVE%20TECHNOLOGY-091234?style=flat-square&logoColor=white)](#)
+[![DIGITAL ART](https://img.shields.io/badge/DIGITAL%20ART-B0B9E8?style=flat-square&labelColor=1D4B93&logoColor=black)](#)
 
 ---
 
@@ -53,7 +53,7 @@ I transform complex ideas and requirements into intuitive digital products, resp
 
 ## 🦇 02 / LOGIC & LUSTER
 
-[![ENTER LOGIC & LUSTER](https://img.shields.io/badge/ENTER%20LOGIC%20%26%20LUSTER-6B3FA0?style=for-the-badge&logoColor=white)](https://logicandluster.com/)
+[![ENTER LOGIC & LUSTER](https://img.shields.io/badge/ENTER%20LOGIC%20%26%20LUSTER-1D4B93?style=for-the-badge&logoColor=white)](https://logicandluster.com/)
 
 Logic & Luster is my creative technology and product design practice—where **human behavior, design, technology, and systems thinking** come together to turn ideas into digital experiences.
 
@@ -82,9 +82,9 @@ Built with **React, TypeScript, Vite, and CSS**, the experience combines a respo
 
 <div align="center">
 
-[![WAKE](https://img.shields.io/badge/STATUS-LISTENING-6B3A5E?style=flat-square&logoColor=white)](https://nocturne-machine.netlify.app/)
-[![LIVE](https://img.shields.io/badge/LIVE%20EXPERIENCE-F5F1E8?style=flat-square&labelColor=6B3FA0&logoColor=black)](https://nocturne-machine.netlify.app/)
-[![SOURCE](https://img.shields.io/badge/SOURCE-D88BAF?style=flat-square&logoColor=white)](https://github.com/lazzaradani-oss/nocturne-machine)
+[![WAKE](https://img.shields.io/badge/STATUS-LISTENING-091234?style=flat-square&logoColor=white)](https://nocturne-machine.netlify.app/)
+[![LIVE](https://img.shields.io/badge/LIVE%20EXPERIENCE-B0B9E8?style=flat-square&labelColor=1D4B93&logoColor=black)](https://nocturne-machine.netlify.app/)
+[![SOURCE](https://img.shields.io/badge/SOURCE-F82F6E?style=flat-square&logoColor=white)](https://github.com/lazzaradani-oss/nocturne-machine)
 
 <br>
 
@@ -118,10 +118,10 @@ Experiments at the intersection of design, code, AI, interaction, motion, and em
 
 ## ☾ 05 / STACK
 
-[![DESIGN](https://img.shields.io/badge/DESIGN-6B3FA0?style=flat-square&logoColor=white)](#)
-[![VISUAL](https://img.shields.io/badge/VISUAL-D88BAF?style=flat-square&logoColor=white)](#)
-[![WEB](https://img.shields.io/badge/WEB-6B3A5E?style=flat-square&logoColor=white)](#)
-[![AI](https://img.shields.io/badge/AI-F5F1E8?style=flat-square&labelColor=6B3FA0&logoColor=black)](#)
+[![DESIGN](https://img.shields.io/badge/DESIGN-1D4B93?style=flat-square&logoColor=white)](#)
+[![VISUAL](https://img.shields.io/badge/VISUAL-F82F6E?style=flat-square&logoColor=white)](#)
+[![WEB](https://img.shields.io/badge/WEB-091234?style=flat-square&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI-B0B9E8?style=flat-square&labelColor=1D4B93&logoColor=black)](#)
 
 * **Design & UX:** Product Design, UX/UI Design, User-Centered Design, User Flows, Information Architecture, Wireframing, Prototyping, Interaction Design, Design Systems
 * **Visual & Brand:** Visual Design, Brand Identity, Digital Branding, Art Direction, Visual Systems
@@ -134,10 +134,10 @@ Experiments at the intersection of design, code, AI, interaction, motion, and em
 
 <div align="center">
 
-[![PURPLE](https://img.shields.io/badge/PURPLE-%236B3FA0?style=flat-square)](#)
-[![PINK](https://img.shields.io/badge/PINK-%23D88BAF?style=flat-square)](#)
-[![PLUM](https://img.shields.io/badge/PLUM-%236B3A5E?style=flat-square)](#)
-[![OFF WHITE](https://img.shields.io/badge/OFF%20WHITE-%23F5F1E8?style=flat-square&labelColor=6B3FA0)](#)
+[![PURPLE](https://img.shields.io/badge/PURPLE-%231D4B93?style=flat-square)](#)
+[![PINK](https://img.shields.io/badge/PINK-%23F82F6E?style=flat-square)](#)
+[![PLUM](https://img.shields.io/badge/PLUM-%23091234?style=flat-square)](#)
+[![OFF WHITE](https://img.shields.io/badge/OFF%20WHITE-%23B0B9E8?style=flat-square&labelColor=1D4B93)](#)
 
 </div>
 
@@ -155,8 +155,8 @@ A visual system balancing technical clarity with an editorial, atmospheric creat
 
 ### **SOMETHING HEARD YOU.**
 
-[![LOGIC & LUSTER](https://img.shields.io/badge/ENTER%20PORTFOLIO-6B3FA0?style=for-the-badge&logoColor=white)](https://logicandluster.com/)
-[![NOCTURNE](https://img.shields.io/badge/WAKE%20THE%20MACHINE-6B3A5E?style=for-the-badge&logoColor=white)](https://nocturne-machine.netlify.app/)
+[![LOGIC & LUSTER](https://img.shields.io/badge/ENTER%20PORTFOLIO-1D4B93?style=for-the-badge&logoColor=white)](https://logicandluster.com/)
+[![NOCTURNE](https://img.shields.io/badge/WAKE%20THE%20MACHINE-091234?style=for-the-badge&logoColor=white)](https://nocturne-machine.netlify.app/)
 
 <br>
 
