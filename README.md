@@ -2,7 +2,7 @@
 
 # lazzaradani-oss/lazzaradani-oss
 
-## Hi, I'm ★ 𝘿𝙖𝙣𝙞𝙚𝙡𝙡𝙚 𝙇𝙖𝙯𝙯𝙖𝙧𝙖 ★
+## Hi, I'm ★ 𝘿𝙖𝙣𝙞𝙚𝙡𝙡𝙚 𝙇𝒶𝓏𝓏𝒶𝓇𝒶 ★
 
 ### CREATIVE TECHNOLOGIST · PRODUCT DESIGNER · DIGITAL ARTIST
 
@@ -13,7 +13,7 @@ I operate at the intersection of design, technology, visual systems, and human b
 [![Identity](https://img.shields.io/badge/Identity-555555?style=flat-square&logoColor=white)](https://docs.google.com/document/d/1G2sdzHVIm4eE2SBvsbo7bQDDYSDl97lxXKfY53Qqf0I)
 [![Creative Technologist](https://img.shields.io/badge/Creative%20Technologist-2C3E50?style=flat-square&logoColor=white)](https://logicandluster.com/)
 [![Operational](https://img.shields.io/badge/Operational-555555?style=flat-square&logoColor=white)](https://logicandluster.com/)
-[![Active](https://img.shields.io/badge/Active-C6A355?style=flat-square&logoColor=white)](https://logicandluster.com/)
+[![Active](https://img.shields.io/badge/Active-6B3A5E?style=flat-square&logoColor=white)](https://logicandluster.com/)
 
 </div>
 
@@ -27,7 +27,7 @@ Logic & Luster is my creative technology and product design practice—where hum
 
 [![Product & UX](https://img.shields.io/badge/Product%20%26%20UX-555555?style=flat-square&logoColor=white)](#)
 [![Visual & Web](https://img.shields.io/badge/Visual%20%26%20Web-2C3E50?style=flat-square&logoColor=white)](#)
-[![Creative Technology](https://img.shields.io/badge/Creative%20Technology-C6A355?style=flat-square&logoColor=white)](#)
+[![Creative Technology](https://img.shields.io/badge/Creative%20Technology-6B3A5E?style=flat-square&logoColor=white)](#)
 [![Systems & Behavior](https://img.shields.io/badge/Systems%20%26%20Behavior-555555?style=flat-square&logoColor=white)](#)
 
 * **Product & UX Design:** Develop user-centered digital products through user flows, information architecture, wireframing, prototyping, interaction design, and iterative problem-solving.
@@ -41,7 +41,7 @@ Logic & Luster is my creative technology and product design practice—where hum
 
 ### ☾ The Nocturne Machine
 
-[![LIVE EXPERIENCE](https://img.shields.io/badge/LIVE%20EXPERIENCE-C6A355?style=flat-square&logoColor=white)](https://nocturne-machine.netlify.app/)
+[![LIVE EXPERIENCE](https://img.shields.io/badge/LIVE%20EXPERIENCE-6B3A5E?style=flat-square&logoColor=white)](https://nocturne-machine.netlify.app/)
 [![SOURCE](https://img.shields.io/badge/SOURCE-2C3E50?style=flat-square&logoColor=white)](https://github.com/lazzaradani-oss/nocturne-machine)
 
 **Experimental Interactive Web Experience**
@@ -52,7 +52,7 @@ Built with **React, TypeScript, Vite, and CSS**, the experience combines a respo
 
 [![Creative Frontend](https://img.shields.io/badge/Creative%20Frontend-555555?style=flat-square&logoColor=white)](#)
 [![Interaction Design](https://img.shields.io/badge/Interaction%20Design-2C3E50?style=flat-square&logoColor=white)](#)
-[![Motion](https://img.shields.io/badge/Motion-C6A355?style=flat-square&logoColor=white)](#)
+[![Motion](https://img.shields.io/badge/Motion-6B3A5E?style=flat-square&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-555555?style=flat-square&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-2C3E50?style=flat-square&logoColor=white)](#)
 
@@ -64,7 +64,7 @@ Built with **React, TypeScript, Vite, and CSS**, the experience combines a respo
 
 [![DESIGN](https://img.shields.io/badge/DESIGN-2C3E50?style=flat-square&logoColor=white)](#)
 [![VISUAL](https://img.shields.io/badge/VISUAL-555555?style=flat-square&logoColor=white)](#)
-[![WEB](https://img.shields.io/badge/WEB-C6A355?style=flat-square&logoColor=white)](#)
+[![WEB](https://img.shields.io/badge/WEB-6B3A5E?style=flat-square&logoColor=white)](#)
 [![AI](https://img.shields.io/badge/AI-2C3E50?style=flat-square&logoColor=white)](#)
 
 * **Design & UX:** Product Design, UX/UI Design, User-Centered Design, User Flows, Information Architecture, Wireframing, Prototyping, Interaction Design, Design Systems
@@ -94,9 +94,9 @@ Experiments at the intersection of design, code, AI, interaction, motion, and em
 
 [![GRAPHITE](https://img.shields.io/badge/GRAPHITE-%23555555?style=flat-square)](#)
 [![SLATE BLUE](https://img.shields.io/badge/SLATE%20BLUE-%232C3E50?style=flat-square)](#)
-[![MUTED GOLD](https://img.shields.io/badge/MUTED%20GOLD-%23C6A355?style=flat-square)](#)
+[![PLUM](https://img.shields.io/badge/PLUM-%236B3A5E?style=flat-square)](#)
 
-A restrained visual system built around **graphite, deep slate blue, and muted gold**—balancing technical clarity with a more editorial, atmospheric creative direction.
+A restrained visual system built around **graphite, deep slate blue, and plum**—balancing technical clarity with a more editorial, atmospheric creative direction.
 
 ---
 
@@ -111,6 +111,6 @@ A restrained visual system built around **graphite, deep slate blue, and muted g
 *Creative Technologist · Product Designer · Digital Artist*
 
 [![LOGIC & LUSTER](https://img.shields.io/badge/LOGIC%20%26%20LUSTER-2C3E50?style=flat-square&logoColor=white)](https://logicandluster.com/)
-[![NOCTURNE MACHINE](https://img.shields.io/badge/NOCTURNE%20MACHINE-C6A355?style=flat-square&logoColor=white)](https://nocturne-machine.netlify.app/)
+[![NOCTURNE MACHINE](https://img.shields.io/badge/NOCTURNE%20MACHINE-6B3A5E?style=flat-square&logoColor=white)](https://nocturne-machine.netlify.app/)
 
 </div>
