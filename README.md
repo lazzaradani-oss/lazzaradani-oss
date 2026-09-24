@@ -95,8 +95,9 @@ Experiments at the intersection of design, code, AI, interaction, motion, and em
 [![PURPLE](https://img.shields.io/badge/PURPLE-%236B3FA0?style=flat-square)](#)
 [![PINK](https://img.shields.io/badge/PINK-%23D88BAF?style=flat-square)](#)
 [![PLUM](https://img.shields.io/badge/PLUM-%236B3A5E?style=flat-square)](#)
+[![OFF WHITE](https://img.shields.io/badge/OFF%20WHITE-%23F5F1E8?style=flat-square&labelColor=6B3FA0)](#)
 
-A visual system built around **purple, pink, and plum**—balancing technical clarity with a more editorial, atmospheric creative direction.
+A visual system built around **purple, pink, plum, and off white**—balancing technical clarity with a more editorial, atmospheric creative direction.
 
 ---
 
