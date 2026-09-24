@@ -94,6 +94,37 @@ Built with **React, TypeScript, Vite, and CSS**, the experience combines a respo
 
 > *something is awake*
 
+### WHY NOCTURNE EXISTS
+
+**The Nocturne Machine was the first prototype for a different kind of portfolio.**
+
+Rather than building another conventional portfolio site, I wanted to make something that felt **distinctly mine**—an atmospheric interactive art piece where design, code, motion, light, and interaction could exist together.
+
+Nocturne became a proof of concept for a larger idea:
+
+> **What if atmosphere could become a reusable design system?**
+
+The particles, light, motion, cursor response, environmental layers, and subtle interaction behaviors developed here can evolve into reusable **Logic & Luster Ambient Systems**—small visual systems designed to make future projects feel alive without overwhelming the work itself.
+
+**Nocturne isn't the destination. It's Experiment 001.**
+
+---
+
+### ◈ THE AMBIENT SYSTEM
+
+A reusable visual toolkit emerging from Experiment 001.
+
+| SYSTEM | ROLE |
+| --- | --- |
+| **AmbientScene** | Particles, atmosphere, light, motion, and environmental depth. |
+| **VolumetricLight** | Directional light and glow for forests, windows, rooms, water, and environments. |
+| **LivingImage** | Static artwork layered with environmental movement and atmospheric detail. |
+| **CursorLuster** | Subtle interactive light and desktop-only cursor response. |
+| **ScrollAtmosphere** | Scroll-driven movement, reveals, transitions, and scrollytelling. |
+| **ProceduralNoise** | Grain, dust, stars, and tactile generative texture. |
+
+The goal is not to make every project flashy. It is to create a **shared visual language** that can be reused across different projects, illustrations, environments, and interactive experiences.
+
 ---
 
 <a id="capabilities"></a>
