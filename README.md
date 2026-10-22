@@ -94,6 +94,21 @@ Built with **React, TypeScript, Vite, and CSS**, the experience combines a respo
 
 > *something is awake*
 
+---
+
+### THE ODD HOUR
+
+**EXPERIMENT 002 · MUSIC / STORYTELLING / DIGITAL EXPERIENCE**
+
+A music-centered extension of the Logic & Luster universe—a place to discover Ava.Bee's original songs and step into the stories, moods, and late-night atmosphere behind the music.
+
+[![ENTER THE ODD HOUR](https://img.shields.io/badge/ENTER%20THE%20ODD%20HOUR-BB9AF7?style=flat-square&labelColor=1F2335&logoColor=white)](https://logicandluster.com/)
+
+[![LISTEN TO SNOW IN JULY](https://img.shields.io/badge/LISTEN-SNOW%20IN%20JULY-7AA2F7?style=flat-square&logoColor=white)](https://distrokid.com/hyperfollow/avabebe/snow-in-july)
+[![LISTEN TO WHAT DO I DO WITH YOUR NAME](https://img.shields.io/badge/LISTEN-WHAT%20DO%20I%20DO%20WITH%20YOUR%20NAME-F7768E?style=flat-square&logoColor=white)](https://distrokid.com/hyperfollow/avabebe/what-do-i-do-with-your-name)
+
+---
+
 ### WHY NOCTURNE EXISTS
 
 **The Nocturne Machine was the first prototype for a different kind of portfolio.**
