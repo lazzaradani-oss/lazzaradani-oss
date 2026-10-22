@@ -100,7 +100,7 @@ Built with **React, TypeScript, Vite, and CSS**, the experience combines a respo
 
 **EXPERIMENT 002 · MUSIC / STORYTELLING / DIGITAL EXPERIENCE**
 
-A music-centered extension of the Logic & Luster universe—a place to discover Ava.Bee's original songs and step into the stories, moods, and late-night atmosphere behind the music.
+A music-centered extension of the Logic & Luster universe—a place to discover AVA BEBE's original songs and step into the stories, moods, and late-night atmosphere behind the music.
 
 [![ENTER THE ODD HOUR](https://img.shields.io/badge/ENTER%20THE%20ODD%20HOUR-BB9AF7?style=flat-square&labelColor=1F2335&logoColor=white)](https://logicandluster.com/)
 
