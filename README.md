@@ -2,9 +2,9 @@
 
 # ☾ DANIELLE LAZZARA ☾
 
-### CREATIVE TECHNOLOGIST · PRODUCT DESIGNER · DIGITAL ARTIST
+### CREATIVE & BRAND STRATEGIST · DIGITAL ARTIST
 
-**Designing Human-Centered Digital Products, Web Experiences & Creative Technology**
+**_Creative direction for artists in motion_**
 
 [![IDENTITY](https://img.shields.io/badge/IDENTITY-7AA2F7?style=flat-square&logoColor=white)](https://docs.google.com/document/d/1G2sdzHVIm4eE2SBvsbo7bQDDYSDl97lxXKfY53Qqf0I)
 [![CREATIVE TECHNOLOGIST](https://img.shields.io/badge/CREATIVE%20TECHNOLOGIST-F7768E?style=flat-square&logoColor=white)](https://logicandluster.com/)
@@ -216,7 +216,7 @@ A visual language pulled from the actual colors of the code environment where th
 
 <br>
 
-*Creative Technologist · Product Designer · Digital Artist*
+*CREATIVE & BRAND STRATEGIST · DIGITAL ARTIST*
 
 **𝒟𝒶𝓃𝒾ℯ𝓁𝓁ℯ 𝐿𝒶𝓏𝓏𝒶𝓇𝒶**
 
